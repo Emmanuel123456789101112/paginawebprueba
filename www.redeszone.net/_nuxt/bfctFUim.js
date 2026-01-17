@@ -1,0 +1,1 @@
+import{m as l,g as s,o as a,n as o}from"./oPhCY1eG.js";const c={__name:"FullScreenOverlay",props:{visible:{type:Boolean,default:!1}},setup(e){return(n,t)=>(a(),s("div",{class:o(["fullscreen-overlay",{visible:e.visible}])},null,2))}},_=l(c,[["__scopeId","data-v-3dc7560c"]]);export{_ as default};

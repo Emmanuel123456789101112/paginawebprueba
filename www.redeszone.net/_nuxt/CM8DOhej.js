@@ -1,0 +1,1 @@
+import{c as s}from"./oPhCY1eG.js";const n=()=>s("country",()=>"ES"),o=()=>s("isGazAdmin",()=>!1),t=()=>s("gdprApplies",()=>!1),i=()=>s("comscoreConsent",()=>0),a=()=>s("personalisedAdsConsent",()=>!1),r=()=>s("infinitePostPool",()=>({})),c=()=>s("infiniteCurrentPost",()=>[]);export{n as a,r as b,c,i as d,t as e,a as f,o as u};
